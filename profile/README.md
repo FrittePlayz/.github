@@ -8,7 +8,7 @@ Games, mods & tools. Farming Simulator 25 mining mods and more.
 
 ## Projects
 
-- **[FS25_MiningLayers](https://github.com/FrittePlayz/FS25_MiningLayers)** — real mining gameplay for FS25: material by digging depth, per-pit geology, spoil pile memory. Unofficial [TerraFarm](https://github.com/scfmod/FS25_TerraFarm) add-on.
+- **[FS25_MiningLayers](https://github.com/FrittePlayz/FS25_MiningLayers)** — real mining gameplay for FS25: material by digging depth, per-pit geology, spoil pile memory. Builds on [TerraFarm](https://github.com/scfmod/FS25_TerraFarm) (required). Unofficial add-on.
 
 ---
 
