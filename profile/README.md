@@ -15,4 +15,4 @@ Games, mods & tools. Farming Simulator 25 mining mods and more.
 
 ---
 
-Supported by [farmersingles.de](https://farmersingles.de) 🚜❤️ · A [seeside.ai](https://seeside.ai) project
+[YouTube](https://www.youtube.com/@FrittePlayz) · Supported by [farmersingles.de](https://farmersingles.de) 🚜❤️ · A [seeside.ai](https://seeside.ai) project
