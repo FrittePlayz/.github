@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fritteplayz.png" width="160" alt="FrittePlayz">
+  <img src="fritteplayz-logo.png" width="160" alt="FrittePlayz">
 </p>
 
 # FrittePlayz 🍟🎮
