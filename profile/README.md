@@ -10,8 +10,10 @@ Games, mods & tools. Farming Simulator 25 mining mods and more.
 
 ## Projects
 
+- **[FSMW-Mods](https://github.com/FrittePlayz/FSMW-Mods)** — every FS Modworks mod for FS25 in one list: halls, silos, panels, the dragline, and Mining Layers. Documentation and where to get them.
 - **[FS25_MiningLayers](https://github.com/FrittePlayz/FS25_MiningLayers)** — real mining gameplay for FS25: material by digging depth, per-pit geology, spoil pile memory. Builds on [TerraFarm](https://github.com/scfmod/FS25_TerraFarm) (required). Unofficial add-on.
-- **[FS25_DigWithAnything](https://github.com/FrittePlayz/FS25_DigWithAnything)** — TerraFarm configs for the machines you already own, base game first. 🚧 Work in progress.
+
+The mods themselves live on **[fsmodworks.com](https://fsmodworks.com)** — that is also where support, the forum and the changelogs are.
 
 ---
 
